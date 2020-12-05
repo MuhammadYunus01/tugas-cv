@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Muhammad Yunus Isnan</title>
+</head>
+<body bgcolor="yellow">
+    <h1 align = "center">CURRICULUM VITAE (CV)</h1>
+    <hr color="black" size = "6" width = "500" align="center noshade"/>
+    <img src="foto1.jpeg" width="300"/>
+    <h1>Identitas Diri</h1>
+    <p>
+        Nama                    : Muhammad Yunus Isnan <br/>
+        Tempat Tanggal Lahir    : Cianjur 12 agustus 2001 <br/>
+        Jenis Kelamin           : Laki-Laki <br/>
+        Status                  : Mahasiswa <br/>
+        Agama                   : Islam <br/>
+        Alamat                  : Jl. Hanjawar RT 05 RW 01 DESA BATULAWANG KECAMATAN CIPANAS KAB CIANJUR JAWABARAT <br/>
+        No. HP                  : 081214977655 <br/>
+        Email                   : myunusisnan@gmail.com<br/>
+        Instagram               : <a href="https://www.instagram.com/yyunuuus/">@yyunuuus</a>
+    </p>
+    <h1>Pendidikan</h1>
+    <table border="1">
+        <caption><b>Formal</b></caption>
+        <thead>
+        <tr>
+            <th>Periode</th>
+            <th>Sekolah</th>
+            <th>Jurusan</th>
+        </tr>
+        </thead>
+        <tr>
+            <td>2006-2007</td>
+            <td>TK DARUL FALLAH</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2007-2013</td>
+            <td>SD Negeri CIPANAS 3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2013-2016</td>
+            <td>SMP NEGERI 2 CIPANAS</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2017-2020</td>
+            <td>SMK NEGERI 1 PACET</td>
+            <td>TKJ</td>
+        </tr>
+        <tr>
+            <td>2020-sekarang</td>
+            <td>STT Terpadu Nurul Fikri</td>
+            <td>Teknik Informatika</td>
+        </tr>
+    </table>
+    <table border="1px">
+    <caption><b>Non Formal</b></caption>
+    <thead>
+    <tr>
+        
+    <h1>Kompetensi Diri</h1>
+    <ol>
+        <li>Periang dan Aktif</li>
+        <li>Mudah memahami sesuatu dengan melihat, membaca dan mempraktikkan</li>
+        <li>Mampu memahami perkataan dan perasaan orang lain</li>
+        <li>Mampu bekerja dalam tekanan</li>
+        <li>Mampu memotivasi diri untuk selalu berusaha</li>
+        <li>Sopan dan Santun</li>
+        <li>Ulet dan Tekun</li>
+    </ol>
+    <h1>Hobi</h1>
+    <ul>
+        <li>BERENANG</li>
+        <li>SENAM</li>
+        <li>Membaca Buku</li>
+        <li>BERMAIN DOTA2</li>
+    </ul>
+    <footer>&copy;2020 yyunuuus</footer>
+</body>
+</html>
